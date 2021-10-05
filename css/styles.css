@@ -9,7 +9,7 @@ Table Of Contents:
 
 /*****************************************
 Colors:
-- Buttons - red #a91265
+- Buttons - red #330000
 - Icons - blue #005282
 - Heading text - white #ffffff
 - Body text - white #ffffff
@@ -84,9 +84,9 @@ a:hover {
 .btn-solid-reg {
   display: inline-block;
   padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-  border: 1px solid #a91265;
+  border: 1px solid #330000;
   border-radius: 32px;
-  background-color: #a91265;
+  background-color: #330000;
   color: #ffffff;
   font-weight: 600;
   font-size: 0.875rem;
@@ -96,18 +96,18 @@ a:hover {
 }
 
 .btn-solid-reg:hover {
-  border: 1px solid #a91265;
+  border: 1px solid #330000;
   background-color: transparent;
-  color: #a91265;
+  color: #330000;
   text-decoration: none;
 }
 
 .btn-solid-lg {
   display: inline-block;
   padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-  border: 1px solid #a91265;
+  border: 1px solid #330000;
   border-radius: 32px;
-  background-color: #a91265;
+  background-color: #330000;
   color: #ffffff;
   font-weight: 600;
   font-size: 0.875rem;
@@ -117,9 +117,9 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-  border: 1px solid #a91265;
+  border: 1px solid #330000;
   background-color: transparent;
-  color: #a91265;
+  color: #330000;
   text-decoration: none;
 }
 
@@ -291,9 +291,9 @@ input[type="checkbox"] {
   display: inline-block;
   width: 100%;
   height: 3.5rem;
-  border: 1px solid #a91265;
+  border: 1px solid #330000;
   border-radius: 32px;
-  background-color: #a91265;
+  background-color: #330000;
   color: #ffffff;
   font-weight: 600;
   font-size: 0.875rem;
@@ -400,7 +400,7 @@ input[type="checkbox"] {
 }
 
 .header .fa-stack .fa-stack-1x {
-  color: #a91265;
+  color: #330000;
   transition: all 0.2s ease;
 }
 
